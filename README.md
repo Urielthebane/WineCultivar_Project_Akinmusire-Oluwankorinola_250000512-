@@ -32,7 +32,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/wine-clustering-project.git
+git clone https://github.com/Urielthebane/WineCultivar_Project_Akinmusire-Oluwankorinola_250000512-.git
 cd wine-clustering-project.py
 Create and Activate Virtual Environment:
 
@@ -46,7 +46,7 @@ Install Dependencies:
 Bash
 
 pip install -r requirements.txt
-Run the Application:
+Run the Application: python app.py
 
 Bash
 
